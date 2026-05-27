@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseync",
+        "uuid": 1793538,
+        "checksum": "jhet4b"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
